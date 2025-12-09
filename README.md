@@ -184,32 +184,9 @@ If evolving this into a full training system:
 * Accuracy curves
 
 ---
-
-## **10. Quality Assurance Checklist**
-
-Before extending or using in research:
-
-* [ ] Matrix dimensions validated
-* [ ] Numerical stability validated
-* [ ] Input pipelines tested
-* [ ] Loss values checked for NaN/Inf
-* [ ] Deterministic behavior confirmed
-
----
-
 ## **11. Licensing**
 
 This project is released under the **MIT License** — free for education, research, and commercial modification.
 
 ---
-
-## **12. Support / Further Enhancements**
-
-I can extend this project with:
-
-* A full training loop (forward + backward + optimization)
-* Graphical explanation diagrams
-* A full machine‑learning mini‑framework structure
-* Jupyter Notebook instructional version
-
-Let me know what enhancements you’d like next.
+~Varun D Soni
